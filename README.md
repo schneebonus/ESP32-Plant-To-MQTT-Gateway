@@ -1,1 +1,3 @@
-# ESP32-Plant-To-MQTT-Gateway
+# ESP32 Gateway: Plant to MQTT
+
+Lorem Ipsum
