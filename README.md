@@ -11,3 +11,8 @@ Lorem Ipsum ...
 ### Install
 
 ### Node-RED and InfluxDB integration
+
+- Install and setup default MQTT Node
+- Install and setup node-red-contrib-stackhero-influxdb-v2 ( https://flows.nodered.org/node/node-red-contrib-stackhero-influxdb-v2 )
+- Create custum function with content of mqtt_to_influxdb.js :
+![nodered_mqtt_influxdv](https://github.com/schneebonus/ESP32-Plant-To-MQTT-Gateway/blob/main/nodered-plants.png?raw=true)
