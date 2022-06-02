@@ -29,5 +29,9 @@ Lorem Ipsum ...ToDo write text:
 - Create custum function with content of mqtt_to_influxdb.js :
 ![nodered_mqtt_influxdv](https://github.com/schneebonus/ESP32-Plant-To-MQTT-Gateway/blob/main/nodered-plants.png?raw=true)
 
+### Further Improvements (maybe... maybe not):
+
+- MQTT over TLS ( + verify certificate fingerprint )
+
 ### Credits
 - https://github.com/BeardedTinker/LilyGO-TTGO-HiGrow for a lot of inspiration and copied code
