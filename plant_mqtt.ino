@@ -127,7 +127,7 @@ void connect_wifi() {
 void connect_mqtt() {
   client.setServer(mqttServer, mqttPort);
   while (!client.connected()) {
-    if (client.connect("ESP32Client", mqttUser, mqttPassword )) {
+    if (client.connect(("lilygo" + String(DEVICE_ID)).c_str(), mqttUser, mqttPassword )) {
       if(DEBUGGING)Serial.println("Connected to MQTT");
     } else {
       if(DEBUGGING)Serial.print("failed with state ");
