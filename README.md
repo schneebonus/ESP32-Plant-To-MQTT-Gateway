@@ -25,3 +25,6 @@ Lorem Ipsum ...
 - Install and setup node-red-contrib-stackhero-influxdb-v2 ( https://flows.nodered.org/node/node-red-contrib-stackhero-influxdb-v2 )
 - Create custum function with content of mqtt_to_influxdb.js :
 ![nodered_mqtt_influxdv](https://github.com/schneebonus/ESP32-Plant-To-MQTT-Gateway/blob/main/nodered-plants.png?raw=true)
+
+### Credits
+- https://github.com/BeardedTinker/LilyGO-TTGO-HiGrow for a lot of inspiration and copied code
