@@ -2,7 +2,10 @@
 
 ### MQTT firmware für lilygo higrow v1.1
 
-Lorem Ipsum ...
+Lorem Ipsum ...ToDo write text:
+- firmware for lilygo higrow v1.1 (change pins for other versions)
+- mqtt publish {temperature, humidity, soil watering, battery} every 20 minutes
+- optimized for low battery consumption (should wake up ~5s * 3 every hour)
 
 ![mint monitoring](https://github.com/schneebonus/ESP32-Plant-To-MQTT-Gateway/blob/main/mint.jpeg?raw=true)
 
