@@ -1,10 +1,6 @@
 #include <DHT.h>
 #include <WiFi.h>
-#include <Arduino.h>
 #include <PubSubClient.h>
-#include <esp_bt.h>
-#include "driver/adc.h"
-#include <esp_wifi.h>
 #include <ArduinoJson.h>
 
 
